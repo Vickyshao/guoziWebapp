@@ -1,0 +1,84 @@
+{
+    "note": "This is a sample config file. You should change the mockDirectory to a more reasonable path.",
+    "mockDirectory": "./mock",
+    "staticDirectory": "./mock/imgs",
+    "staticPath": "/static",
+    "quiet": false,
+    "port": "63334",
+    "latency": 50,
+    "logRequestHeaders": false,
+    "allowedHeaders": ["Content-Type", "*"],
+    "webServices": {
+        "users/authorization/send-code": {
+            "verbs": ["post"],
+            "mockFile": "statusSuccess.json"
+        },
+        "users/authorization/sign-up": {
+            "verbs": ["post"],
+            "mockFile": "signInSuccess.json"
+        },
+        "users/authorization/sign-in": {
+            "verbs": ["post"],
+            "switch": ["phone", "password"],
+            "responses": {
+                "post": {
+                    "httpStatus": 503,
+                    "mockFile": "signInFailed.json"
+                }
+            },
+            "switchResponses": {
+                "phone13111111111password111111": {
+                    "httpStatus":200,
+                    "mockFile": "signInSuccess.json"
+                }
+            }
+        },
+        "users/authorization/password": {
+            "verbs": ["put"],
+            "mockFile": "findPasswordSuccess.json"
+        },
+        "play/raider": {
+            "verbs": ["post"],
+            "mockFile": "raiderGuideList.json"
+        },
+        "play/travel-note": {
+            "verbs": ["post"],
+            "mockFile": "travelGuideList.json"
+        },
+        "play/raider/:id": {
+            "verbs": ["get"],
+            "mockFile": "raiderDetail.json"
+        },
+        "play/travel-note/:id": {
+            "verbs": ["get"],
+            "mockFile": "travelDetail.json"
+        },
+        "comments/raider": {
+            "verbs": ["post"],
+            "mockFile": "raiderTravelComments.json"
+        },
+        "comments/travel-note": {
+            "verbs": ["post"],
+            "mockFile": "raiderTravelComments.json"
+        },
+        "comments/raider/create": {
+            "verbs": ["post"],
+            "mockFile": "addRaiderTravelComment.json"
+        },
+        "comments/travel-note/create": {
+            "verbs": ["post"],
+            "mockFile": "addRaiderTravelComment.json"
+        },
+        "users/receive-addresses": {
+            "verbs": ["get", "post"],
+            "responses": {
+                "get": {
+                    "mockFile": "usersAddressListSuccess.json"
+                },
+                "post": {
+                    "mockFile": "statusSuccess.json"
+                }
+            }
+        }
+    }
+}

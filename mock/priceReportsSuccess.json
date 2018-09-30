@@ -1,0 +1,309 @@
+{
+    "code": 0,
+    "msg": "获取成功",
+    "data":[
+        {
+            "date": "2017-03-08",
+            "list": [
+                {
+                    "priceReportId": 1,
+                    "status": 0,
+                    "market": {
+                        "id": 0,
+                        "name": "瑞丽综合批发市场08"
+                    },
+                    "categories": [
+                        {
+                            "id": 0,
+                            "name": "根茎类"
+                        },
+                        {
+                            "id": 0,
+                            "name": "胡萝卜"
+                        }
+                    ],
+                    "price": 19.12,
+                    "originRegion": {
+                        "province": {
+                            "id": 1,
+                            "name": "云南"
+                        },
+                        "city": {
+                            "id": 2229,
+                            "name": "文山州"
+                        },
+                        "district": {
+                            "id": 22230,
+                            "name": "砚山县"
+                        }
+                    },
+                    "contact": "Vanessa",
+                    "contactPhone": "18687156220",
+                    "updateTime": 1489131730020
+                }
+            ]
+        },
+        {
+            "date": "2017-03-09",
+            "list": [
+                {
+                    "priceReportId": 2,
+                    "status": 0,
+                    "market": {
+                        "id": 0,
+                        "name": "瑞丽综合批发市场09"
+                    },
+                    "categories": [
+                        {
+                            "id": 0,
+                            "name": "根茎类"
+                        },
+                        {
+                            "id": 0,
+                            "name": "胡萝卜"
+                        }
+                    ],
+                    "price": 19.12,
+                    "originRegion": {
+                        "province": {
+                            "id": 1,
+                            "name": "云南"
+                        },
+                        "city": {
+                            "id": 2229,
+                            "name": "文山州"
+                        },
+                        "district": {
+                            "id": 22230,
+                            "name": "砚山县"
+                        }
+                    },
+                    "contact": "Vanessa",
+                    "contactPhone": "18687156220",
+                    "updateTime": 1489131730020
+                }
+            ]
+        },
+        {
+            "date": "2017-03-10",
+            "list": [
+                {
+                    "priceReportId": 3,
+                    "status": 0,
+                    "market": {
+                        "id": 0,
+                        "name": "瑞丽综合批发市场瑞丽综合批发市场"
+                    },
+                    "categories": [
+                        {
+                            "id": 0,
+                            "name": "根茎类根茎类根茎类"
+                        },
+                        {
+                            "id": 0,
+                            "name": "胡萝卜"
+                        }
+                    ],
+                    "price": 19.01,
+                    "originRegion": {
+                        "province": {
+                            "id": 1,
+                            "name": "云南"
+                        },
+                        "city": {
+                            "id": 2229,
+                            "name": "文山州"
+                        },
+                        "district": {
+                            "id": 22230,
+                            "name": "砚山县"
+                        }
+                    },
+                    "contact": "Vanessa",
+                    "contactPhone": "18687156220",
+                    "updateTime": "2017-03-11T11:32:12.212"
+                },
+                {
+                    "priceReportId": 4,
+                    "status": 1,
+                    "market": {
+                        "id": 0,
+                        "name": "瑞丽综合批发市场"
+                    },
+                    "categories": [
+                        {
+                            "id": 0,
+                            "name": "根茎类"
+                        },
+                        {
+                            "id": 0,
+                            "name": "胡萝卜"
+                        }
+                    ],
+                    "price": 0.1,
+                    "originRegion": {
+                        "province": {
+                            "id": 1,
+                            "name": "云南"
+                        },
+                        "city": {
+                            "id": 2229,
+                            "name": "文山州"
+                        },
+                        "district": {
+                            "id": 22230,
+                            "name": "砚山县"
+                        }
+                    },
+                    "contact": "Vanessa",
+                    "contactPhone": "18687156220",
+                    "updateTime": "2017-02-10T07:30:12.212Z"
+                },
+                {
+                    "priceReportId": 5,
+                    "status": 2,
+                    "market": {
+                        "id": 0,
+                        "name": "瑞丽综合批发市场"
+                    },
+                    "categories": [
+                        {
+                            "id": 0,
+                            "name": "根茎类"
+                        },
+                        {
+                            "id": 0,
+                            "name": "胡萝卜"
+                        }
+                    ],
+                    "price": 19,
+                    "originRegion": {
+                        "province": {
+                            "id": 1,
+                            "name": "云南"
+                        },
+                        "city": {
+                            "id": 2229,
+                            "name": "文山州"
+                        },
+                        "district": {
+                            "id": 22230,
+                            "name": "砚山县"
+                        }
+                    },
+                    "contact": "Vanessa",
+                    "contactPhone": "18687156220",
+                    "updateTime": "2017-03-09T08:30:12.212Z"
+                },
+                {
+                    "priceReportId": 6,
+                    "status": 2,
+                    "market": {
+                        "id": 0,
+                        "name": "瑞丽综合批发市场"
+                    },
+                    "categories": [
+                        {
+                            "id": 0,
+                            "name": "根茎类"
+                        },
+                        {
+                            "id": 0,
+                            "name": "胡萝卜"
+                        }
+                    ],
+                    "price": 19.1,
+                    "originRegion": {
+                        "province": {
+                            "id": 1,
+                            "name": "云南"
+                        },
+                        "city": {
+                            "id": 2229,
+                            "name": "文山州"
+                        },
+                        "district": {
+                            "id": 22230,
+                            "name": "砚山县"
+                        }
+                    },
+                    "contact": "Vanessa",
+                    "contactPhone": "18687156220",
+                    "updateTime": "2017-03-09T08:30:12.212Z"
+                },
+                {
+                    "priceReportId": 3,
+                    "status": 2,
+                    "market": {
+                        "id": 0,
+                        "name": "瑞丽综合批发市场"
+                    },
+                    "categories": [
+                        {
+                            "id": 0,
+                            "name": "根茎类"
+                        },
+                        {
+                            "id": 0,
+                            "name": "胡萝卜"
+                        }
+                    ],
+                    "price": 19,
+                    "originRegion": {
+                        "province": {
+                            "id": 1,
+                            "name": "云南"
+                        },
+                        "city": {
+                            "id": 2229,
+                            "name": "文山州"
+                        },
+                        "district": {
+                            "id": 22230,
+                            "name": "砚山县"
+                        }
+                    },
+                    "contact": "Vanessa",
+                    "contactPhone": "18687156220",
+                    "updateTime": "2017-03-09T08:30:12.212Z"
+                },
+                {
+                    "priceReportId": 3,
+                    "status": 2,
+                    "market": {
+                        "id": 0,
+                        "name": "瑞丽综合批发市场"
+                    },
+                    "categories": [
+                        {
+                            "id": 0,
+                            "name": "根茎类"
+                        },
+                        {
+                            "id": 0,
+                            "name": "胡萝卜"
+                        }
+                    ],
+                    "price": 19,
+                    "originRegion": {
+                        "province": {
+                            "id": 1,
+                            "name": "云南"
+                        },
+                        "city": {
+                            "id": 2229,
+                            "name": "文山州"
+                        },
+                        "district": {
+                            "id": 22230,
+                            "name": "砚山县"
+                        }
+                    },
+                    "contact": "Vanessa",
+                    "contactPhone": "18687156220",
+                    "updateTime": "2017-03-09T08:30:12.212Z"
+                }
+            ]
+        }
+    ]
+}

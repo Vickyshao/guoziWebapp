@@ -1,0 +1,38 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": {
+        "paging": {
+            "total": 4,
+            "currentPage": 1,
+            "pageSize": 10,
+            "pageCount": 10
+        },
+        "itemList": [
+            {
+                "userName": "a1",
+                "userHeadImg": "https://cl.ly/383H0r0H2M2z/otto_web.jpg",
+                "content": "哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈",
+                "createAt": "2017-02-21 15:23:21"
+            },
+            {
+                "userName": "a2",
+                "userHeadImg": "https://cl.ly/383H0r0H2M2z/otto_web.jpg",
+                "content": "哈哈哈哈",
+                "createAt": "2017-02-22 15:23:21"
+            },
+            {
+                "userName": "a3",
+                "userHeadImg": "https://cl.ly/383H0r0H2M2z/otto_web.jpg",
+                "content": "哈哈哈哈",
+                "createAt": "2017-02-23 15:23:21"
+            },
+            {
+                "userName": "a4",
+                "userHeadImg": "https://cl.ly/383H0r0H2M2z/otto_web.jpg",
+                "content": "哈哈哈哈",
+                "createAt": "2017-02-24 15:23:21"
+            }
+        ]
+    }
+}

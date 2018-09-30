@@ -1,0 +1,22 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": {
+        "id": "001",
+        "title": "不能不去的地方",
+        "subTitle": "",
+        "isEssence": true,
+        "publishDate": "2017-03-01",
+        "readingQuantity": 1220,
+        "commentQuantity": 110,
+        "author": "dylan",
+        "coverImg": "https://cl.ly/383H0r0H2M2z/otto_web.jpg",
+        "departureDate": "2017-02-01",
+        "consumptionPerPerson": 100,
+        "departureCity": "上海",
+        "destination": "昆明",
+        "travelDay": 5,
+        "summary": "",
+        "content": "不能不去的地方不能不去的地方不能不去的地方"
+    }
+}

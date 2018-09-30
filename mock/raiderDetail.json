@@ -1,0 +1,17 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": {
+        "id": "001",
+        "title": "说走就走的旅行",
+        "subTitle": "",
+        "readingQuantity": 12200,
+        "commentQuantity": 110,
+        "contentUrl": "",
+        "author": "tom",
+        "publishDate": "2017-01-01",
+        "coverImg": "https://cl.ly/383H0r0H2M2z/otto_web.jpg",
+        "summary": "说走就走的旅行说走就走的旅行说走就走的旅行说走就走的旅行说走就走的旅行说走就走的旅行说走就走的旅行说走就走的旅行说走就走的旅行",
+        "content": ""
+    }
+}

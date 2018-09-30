@@ -1,0 +1,44 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": {
+        "paging": {
+            "total": 3,
+            "currentPage": 1,
+            "pageSize": 10,
+            "pageCount": 10
+        },
+        "itemList": [
+            {
+                "id": "001",
+                "title": "不能不去的地方1不能不去的地方1不能不去的地方1不能不去的地方1不能不去的地方1",
+                "subTitle": "不能不去的地方1不能不去的地方1不能不去的地方1不能不去的地方1不能不去的地方1不能不去的地方1",
+                "coverImg": "https://cl.ly/383H0r0H2M2z/otto_web.jpg",
+                "isEssence": true,
+                "destination": "昆明",
+                "publishDate": "2017-02-10",
+                "readingQuantity": 1030
+            },
+            {
+                "id": "002",
+                "title": "不能不去的地方2",
+                "subTitle": "不能不去的地方2",
+                "coverImg": "https://cl.ly/383H0r0H2M2z/otto_web.jpg",
+                "isEssence": false,
+                "destination": "大理",
+                "publishDate": "2017-01-04",
+                "readingQuantity": 2100
+            },
+            {
+                "id": "003",
+                "title": "不能不去的地方3",
+                "subTitle": "不能不去的地方3",
+                "coverImg": "https://cl.ly/383H0r0H2M2z/otto_web.jpg",
+                "isEssence": false,
+                "destination": "丽江",
+                "publishDate": "2017-03-11",
+                "readingQuantity": 2101
+            }
+        ]
+    }
+}

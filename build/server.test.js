@@ -1,0 +1,10 @@
+const fs = require('fs')
+const path = require('path')
+const express = require('express')
+const resolve = file => path.resolve(__dirname, file)
+const serverBase = require('./server.base.js')
+const app = express()
+
+serverBase.updateRenderer(fs.readFileSync(resolve('../dist/server-bundle.js'), 'utf-8'))
+serverBase.updateIndexHtml(fs.readFileSync(resolve('../dist/index.html'), 'utf-8'))
+serverBase.startServer(app)

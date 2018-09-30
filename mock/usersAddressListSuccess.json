@@ -1,0 +1,91 @@
+{
+    "code": 0,
+    "msg": "获取成功",
+    "data": [
+        {
+            "id": "IMWYPUPHQHUKTWLY",
+            "name": "Vanessa1",
+            "mobile": "18687156220",
+            "region": {
+                "province": {
+                    "id": 1,
+                    "name": "云南"
+                },
+                "city": {
+                    "id": 2229,
+                    "name": "文山州"
+                },
+                "district": {
+                    "id": 22230,
+                    "name": "砚山县"
+                }
+            },
+            "addressDetails": "萧山区闻堰镇三江口村委大楼18栋2单元701号",
+            "isDefault": true
+        },
+        {
+            "id": "IMWYPUPHQHUKTWLA",
+            "name": "Vanessa2",
+            "mobile": "18687156220",
+            "region": {
+                "province": {
+                    "id": 1,
+                    "name": "云南"
+                },
+                "city": {
+                    "id": 2229,
+                    "name": "文山州"
+                },
+                "district": {
+                    "id": 22230,
+                    "name": "砚山县"
+                }
+            },
+            "addressDetails": "萧山区闻堰镇三江口村委大楼18栋2单元701号",
+            "isDefault": false
+        },
+        {
+            "id": "IMWYPUPHQHUKTWLB",
+            "name": "Vanessa3",
+            "mobile": "18687156220",
+            "region": {
+                "province": {
+                    "id": 1,
+                    "name": "云南"
+                },
+                "city": {
+                    "id": 2229,
+                    "name": "文山州"
+                },
+                "district": {
+                    "id": 22230,
+                    "name": "砚山县"
+                }
+            },
+            "addressDetails": "萧山区闻堰镇三江口村委大楼18栋2单元701号",
+            "isDefault": false
+        },
+        {
+            "id": "IMWYPUPHQHUKTWLC",
+            "name": "Vanessa4",
+            "mobile": "18687156220",
+            "region": {
+                "province": {
+                    "id": 1,
+                    "name": "云南"
+                },
+                "city": {
+                    "id": 2229,
+                    "name": "文山州"
+                },
+                "district": {
+                    "id": 22230,
+                    "name": "砚山县"
+                }
+            },
+            "addressDetails": "萧山区闻堰镇三江口村委大楼18栋2单元701号",
+            "isDefault": false
+        }
+    ]
+
+}

@@ -1,0 +1,50 @@
+{
+    "code": 0,
+    "msg": "获取成功",
+    "data": {
+        "name": "Vanessa",
+        "avatar": "",
+        "mobile": "18687156220",
+        "certificationStatus": 1,
+        "categories": [
+            {
+                "id": 0,
+                "name": "蔬菜"
+            },
+            {
+                "id": 0,
+                "name": "水果"
+            },
+            {
+                "id": 0,
+                "name": "大西瓜"
+            }
+        ],
+        "identities": [
+            {
+                "id": 0,
+                "name": "老司机"
+            }
+        ],
+        "region": {
+            "province": {
+                "id": 0,
+                "name": "云南"
+            },
+            "city": {
+                "id": 0,
+                "name": "昆明"
+            },
+            "district": {
+                "id": 0,
+                "name": "五华区"
+            }
+        },
+        "images": [ "http://img4.cache.netease.com/photo/0010/2017-02-20/CDO06R7E50CB0010.jpg" ,"http://img4.cache.netease.com/photo/0010/2017-02-20/CDO06R7E50CB0010.jpg","http://img4.cache.netease.com/photo/0010/2017-02-20/CDO06R7E50CB0010.jpg","http://img4.cache.netease.com/photo/0010/2017-02-20/CDO06R7E50CB0010.jpg"],
+        "viewsCount": 12,
+        "contactsCount": 0,
+        "isInternal": true,
+        "isDefaultName": false,
+        "description": "肥城冷库存储的荷兰十五土豆也开始大量出库，装箱套网包装，二两多的通货出库价格0.80-0.9元左右，四两以上大货1.1-1.2元左右，肥城本地货，看货定价.颜色质量很好，走货近几天稍显加快，价格从年前相比是小掉价，现在农户出货积极，17年春土豆也已经种植上了，预计四月份中旬上市供应"
+    }
+}

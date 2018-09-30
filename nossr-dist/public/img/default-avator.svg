@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="132" height="132" viewBox="0 0 132 132">
+    <defs>
+        <circle id="a" cx="65" cy="65" r="65"/>
+        <linearGradient id="c" x1="50%" x2="50%" y1="0%" y2="73.795%">
+            <stop offset="0%" stop-color="#FF9322"/>
+            <stop offset="100%" stop-color="#FFCF00"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#FFF" stroke="#DDD" xlink:href="#a"/>
+        <g stroke="url(#c)" stroke-width="4" mask="url(#b)">
+            <g transform="translate(32 30)">
+                <ellipse cx="33.05" cy="17.143" rx="16.286" ry="17.143"/>
+                <path d="M40.501 67.03H25.596c-18.074 0-23.118-1.084-23.118-5.778V59.65c0-13.804 10.404-24.979 23.118-24.979H40.5c12.713 0 23.12 11.178 23.12 24.98v1.6c0 2.501-1.744 3.967-5.919 4.85-3.654.773-7.484.929-17.201.929z"/>
+            </g>
+        </g>
+    </g>
+</svg>

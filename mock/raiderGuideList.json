@@ -1,0 +1,42 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": {
+        "paging": {
+            "total": 4,
+            "currentPage": 1,
+            "pageSize": 10,
+            "pageCount": 10
+        },
+        "itemList": [
+            {
+                "id": "001",
+                "title": "说走就走的旅程1",
+                "subTitle": "说走就走的旅程1",
+                "coverImg": "https://cl.ly/383H0r0H2M2z/otto_web.jpg",
+                "contentUrl": "https://www.google.com"
+            },
+            {
+                "id": "002",
+                "title": "说走就走的旅程2",
+                "subTitle": "说走就走的旅程2",
+                "coverImg": "https://cl.ly/383H0r0H2M2z/otto_web.jpg",
+                "contentUrl": ""
+            },
+            {
+                "id": "003",
+                "title": "说走就走的旅程3",
+                "subTitle": "说走就走的旅程3",
+                "coverImg": "https://cl.ly/383H0r0H2M2z/otto_web.jpg",
+                "contentUrl": "https://www.google.com"
+            },
+            {
+                "id": "003",
+                "title": "说走就走的旅程4",
+                "subTitle": "说走就走的旅程4",
+                "coverImg": "https://cl.ly/383H0r0H2M2z/otto_web.jpg",
+                "contentUrl": ""
+            }
+        ]
+    }
+}
